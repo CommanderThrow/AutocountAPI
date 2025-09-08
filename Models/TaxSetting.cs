@@ -1,0 +1,11 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace AutocountAPI.Models;
+
+public partial class TaxSetting
+{
+    public string TaxName { get; set; } = null!;
+
+    public string? TaxValue { get; set; }
+}

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutocountAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46c4255ac367384455e73b2b63eb0062d726436f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ead5bb593eb0a1d3013ecb7463bbf8aa419725e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutocountAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutocountAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
