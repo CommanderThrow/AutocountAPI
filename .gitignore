@@ -1,2 +1,16 @@
 obj/Debug/net9.0/AutocountAPI.AssemblyInfo.cs
 obj/Debug/net9.0/AutocountAPI.AssemblyInfoInputs.cache
+bin/Debug/net9.0/AutocountAPI.dll
+bin/Debug/net9.0/AutocountAPI.exe
+bin/Debug/net9.0/AutocountAPI.pdb
+obj/Debug/net9.0/apphost.exe
+obj/Debug/net9.0/AutocountAPI.csproj.CoreCompileInputs.cache
+obj/Debug/net9.0/AutocountAPI.dll
+obj/Debug/net9.0/AutocountAPI.genruntimeconfig.cache
+obj/Debug/net9.0/AutocountAPI.pdb
+obj/Debug/net9.0/AutocountAPI.sourcelink.json
+obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+obj/Debug/net9.0/rpswa.dswa.cache.json
+obj/Debug/net9.0/ref/AutocountAPI.dll
+obj/Debug/net9.0/refint/AutocountAPI.dll
