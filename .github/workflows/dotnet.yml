@@ -37,4 +37,4 @@ jobs:
           dotnet-version: 9.0.x
       - run: dotnet restore
       - name: Check code formatting
-        run: dotnet format AutocountAPI.sln --no-restore --verify-no-changes
+        run: dotnet format AutocountAPI.sln --verify-no-changes
