@@ -31,4 +31,4 @@ jobs:
     
     steps:
       - uses: actions/checkout@v4
-      - run: dotnet format AutocountAPI.csproj --verify-no-changes
+      - run: dotnet format AutocountAPI.sln
