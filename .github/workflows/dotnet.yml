@@ -31,4 +31,6 @@ jobs:
     
     steps:
       - uses: actions/checkout@v4
+      - run: dotnet restore
+      - name: Check code formatting
       - run: dotnet format AutocountAPI.sln --no-restore --verify-no-changes
