@@ -31,6 +31,10 @@ jobs:
     
     steps:
       - uses: actions/checkout@v4
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 9.0.x
       - run: dotnet restore
       - name: Check code formatting
         run: dotnet format AutocountAPI.sln --no-restore --verify-no-changes
